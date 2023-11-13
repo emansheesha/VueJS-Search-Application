@@ -1,0 +1,3 @@
+<template>
+    meal list
+</template>
